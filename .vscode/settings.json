@@ -11,11 +11,11 @@
   },
 
   // Qiita theme
-  "workbench.colorCustomizations": {
-    "editor.background": "#fff",
-    "statusBar.background": "#56C501",
-    "sideBar.background": "#F5F6F6"
-  },
+  // "workbench.colorCustomizations": {
+  //   "editor.background": "#fff",
+  //   "statusBar.background": "#56C501",
+  //   "sideBar.background": "#F5F6F6"
+  // },
 
   // Markdownlint
   "markdownlint.config": {
